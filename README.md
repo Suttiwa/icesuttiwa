@@ -1,9 +1,9 @@
-# hello world projrct
+# hello world project
 
 this is my first reponsitory!
 
 ## Author
 
-- P. Phetawut
-
-- S. Suwanmanee
+- Piyada Phetawut
+- Sutthiwat Suwanmanee
+- Anatee Mahamad
